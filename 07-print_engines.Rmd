@@ -1,0 +1,9 @@
+class: inverse, center, middle
+# {gtsummary} print engines
+
+
+---
+# {gtsummary} print engines
+
+<p align="center"><img src="Images/gtsummary_rmarkdown.png" width=50%></p>
+
